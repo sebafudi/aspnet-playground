@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71d99880-d44d-4018-9c3d-0d78fc8c9b0d": {
+      "ProjectGuid": "71d99880-d44d-4018-9c3d-0d78fc8c9b0d",
+      "DisplayName": "aspnet-playground",
+      "ColorIndex": 0
+    },
+    "1f10dfb2-5929-4c02-8b6c-7e67eca90842": {
+      "ProjectGuid": "1f10dfb2-5929-4c02-8b6c-7e67eca90842",
+      "DisplayName": "aspnet-playground",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
